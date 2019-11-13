@@ -1,11 +1,11 @@
 styles.css
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
  
 
 }
 h1{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     color: slategrey;
 }
@@ -16,7 +16,7 @@ ul{
 li{
     display: inline-block;
     padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
     list-style: none;
     font-size: 24px;
      color: rgba(65, 66, 70, 0.979);
